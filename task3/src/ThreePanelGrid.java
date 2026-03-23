@@ -35,8 +35,5 @@ public class ThreePanelGrid extends JFrame {
     }
 
 
-    public static void main(String[] args) {
-        ThreePanelGrid frame = new ThreePanelGrid();
-        frame.setVisible(true);
-    }
+
 }
